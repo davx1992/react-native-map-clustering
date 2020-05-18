@@ -1,5 +1,6 @@
 ﻿# React Native Map Clustering
-
+This is fork of original packed created by Venits. https://github.com/Venits/react-native-map-clustering.
+I added support of Aniamted map and minor fix of dissapearing markers.
 React Native module that handles map clustering for you.
 
 Works with **Expo** and **react-native-cli** 🚀
